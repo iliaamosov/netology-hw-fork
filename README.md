@@ -33,13 +33,14 @@
 ### Задание 2
 
 `Приведите ответ в свободной форме........`
-https://github.com/iliaamosov/netology-hw/blob/bd96d27dfac7d1ad5ba832404a5558601b7fb8db/.gitignore
+
+1. https://github.com/iliaamosov/netology-hw/blob/bd96d27dfac7d1ad5ba832404a5558601b7fb8db/.gitignore
 
 ### Задание 3
 
 `Приведите ответ в свободной форме........`
 
-https://github.com/iliaamosov/netology-hw
+1. https://github.com/iliaamosov/netology-hw
 
 
 ### Задание 4
